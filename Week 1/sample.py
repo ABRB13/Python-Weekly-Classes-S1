@@ -1,3 +1,1 @@
-name = 'my name'
-print(name)
-
+max(5,2)
